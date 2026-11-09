@@ -24,6 +24,7 @@ This simulator makes each of those steps visible and does the arithmetic on scre
 - **Follow one sample.** Click a sample, use the arrow keys, or step through or auto-play from the start. Each sample goes through four stages: when it is taken, the amplitude measured, the nearest level, and the binary stored.
 - **Waveforms.** Pure tone, square, triangle, sawtooth, two notes, a synthesised voice "ah", a real voice recording, and any audio file the user uploads.
 - **Listen.** Students can play the original and the digitised version to hear the effect of low sample rates and bit depths.
+- **Length of time shown.** The graph can show 1, 2, 3 or 5 seconds (or milliseconds). The sample rate and frequency stay per second, so a longer graph shows more samples and more waves.
 - **Two timescales.** "Classroom" uses 1 second and Hz, so the numbers are easy. "Real audio" uses 1 ms and kHz.
 - **File size.** `sample rate × bit depth × duration` is worked out in bits, bytes and KB, alongside a table of every sample and the binary stream that the file would store.
 
